@@ -1,4 +1,4 @@
-<?php namespace Giggs\Environment;
+<?php namespace Pabloezequiel\Environment;
 
 use Illuminate\Support\ServiceProvider;
 

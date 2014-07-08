@@ -1,5 +1,5 @@
 {
-    "name": "giggs/environment",
+    "name": "pabloezequiel/environment",
     "description": "Show an alert depends the environment",
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     "autoload": {
         "classmap": [],
         "psr-0": {
-            "Giggs\\Environment\\": "src/"
+            "Pabloezequiel\\Environment\\": "src/"
         }
     },
     "minimum-stability": "stable"

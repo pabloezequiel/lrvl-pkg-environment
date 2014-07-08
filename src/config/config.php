@@ -26,14 +26,6 @@ return array(
 	|
 	*/
 
-	'environments' => array(
-
-		'local' => array(
-
-			'local'
-
-		)
-
-	)
+	'environments' => array()
 
 );
