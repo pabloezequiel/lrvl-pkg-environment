@@ -28,7 +28,7 @@ You have to add a list of environments you want to see the flag. To do it you ha
     php artisan config:publish pabloezequiel/lrvl-pkg-environment
 
 In the config file you can add a group of environments under a single name or multiple names. Check out the file and follow the instructions.
-
+ 
 See: http://laravel.com/docs/packages#package-configuration
 
 ### Template
