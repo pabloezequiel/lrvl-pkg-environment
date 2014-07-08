@@ -2,7 +2,7 @@
     "name": "pabloezequiel/environment",
     "type": "package",
     "description": "Add a flag to your Laravel dev environments.",
-    "keywords": ["laravel", "laravel 4", "flag", "environment", "development", "1.0.0"],
+    "keywords": ["laravel", "laravel 4", "flag", "environment", "development"],
     "homepage": "https://github.com/pabloezequiel/lrvl-pkg-environment",
     "license": "MIT",
     "authors": [
