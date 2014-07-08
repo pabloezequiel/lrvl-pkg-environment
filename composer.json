@@ -1,0 +1,22 @@
+{
+    "name": "giggs/environment",
+    "description": "Show an alert depends the environment",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pablo Leone",
+            "email": "info@pabloleone.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [],
+        "psr-0": {
+            "Giggs\\Environment\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
