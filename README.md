@@ -8,7 +8,7 @@ This Laravel 4 package provides a way to flag your environments to avoid unwante
 Begin by installing this package through Composer. Edit your project's `composer.json` file to require `pabloezequiel/lrvl-pkg-environment`.
 
     "require": {
-        "pabloezequiel/lrvl-pkg-environment": "1.*"
+        "pabloezequiel/lrvl-pkg-environment": "1.0.*"
     }
 
 Next, update Composer from the Terminal:
