@@ -34,8 +34,9 @@
 		position: absolute;
 		bottom: 10px;
 		right: 10px;
-		width: 285px;
+		width: 270px;
 		font-family: Arial, Helvetica, sans-serif;
+		text-align: left;
 	}
 
 
@@ -85,8 +86,14 @@
 		float: right;
 		font-size: 21px;
 		font-weight: bold;
-		line-height: 0.6;
+		line-height: 1;
 		text-shadow: 0 1px 0 #fff;
+	}
+
+
+	#ZmxhZw p {
+		margin: 5px 0;
+		padding: 0;
 	}
 
 
