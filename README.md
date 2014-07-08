@@ -8,7 +8,7 @@ This Laravel 4 package provides a way to flag your environments to avoid unwante
 Begin by installing this package through Composer. Edit your project's `composer.json` file to require `pabloezequiel/lrvl-pkg-environment`.
 
     "require": {
-        "pabloezequiel/lrvl-pkg-environment": "1.0.*"
+        "pabloezequiel/lrvl-pkg-environment": "dev-master"
     }
 
 Next, update Composer from the Terminal:
@@ -25,7 +25,7 @@ That's it! You're all set to go.
 
 You have to add a list of environments you want to see the flag. To do it you have to publish the config file with this command.
 
-    php artisan config:publish pabloezequiel/lrvl-pkg-environment
+    php artisan config:publish pabloezequiel/environment
 
 In the config file you can add a group of environments under a single name or multiple names. Check out the file and follow the instructions.
  
@@ -35,7 +35,7 @@ See: http://laravel.com/docs/packages#package-configuration
 
 To override the template, publish the package template into your app with this command.
 
-    php artisan view:publish pabloezequiel/lrvl-pkg-environment
+    php artisan view:publish pabloezequiel/environment
 
 
 Now go to your `app/views/packages` and made all changes there.
