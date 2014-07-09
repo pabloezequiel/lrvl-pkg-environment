@@ -18,7 +18,7 @@ class EnvironmentServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('giggs/environment');
+		$this->package('pabloezequiel/environment');
 
 		// EnvironmentServiceProvider auto-load
 		$this->app['environment'];
@@ -44,7 +44,7 @@ class EnvironmentServiceProvider extends ServiceProvider {
 		$this->app['environment'] = $this->app->share(function($app)
 		{
 			// Get the environments in which will be shown the flag
-			$environments = $app['config']['environment::config.environments'];
+			$environments = $app['config']['pabloezequiel/environment::environments'];
 
 			$env = new Environment($environments);
 
