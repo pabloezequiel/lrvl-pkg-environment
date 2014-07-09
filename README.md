@@ -9,10 +9,10 @@ This Laravel 4 package provides a way to flag your environments to avoid unwante
 
 ## Installation
 
-Begin by installing this package through Composer. Edit your project's `composer.json` file to require `pabloezequiel/lrvl-pkg-environment`.
+Begin by installing this package through Composer. Edit your project's `composer.json` file to require `pabloezequiel/environment`.
 
     "require": {
-        "pabloezequiel/lrvl-pkg-environment": "dev-master"
+        "pabloezequiel/environment": "1.0.0"
     }
 
 Next, update Composer from the Terminal:
