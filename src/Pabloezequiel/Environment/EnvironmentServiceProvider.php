@@ -2,6 +2,8 @@
 
 use Illuminate\Support\ServiceProvider;
 
+use Config;
+
 class EnvironmentServiceProvider extends ServiceProvider {
 
 	/**
@@ -21,7 +23,7 @@ class EnvironmentServiceProvider extends ServiceProvider {
 		$this->package('pabloezequiel/environment');
 
 		// EnvironmentServiceProvider auto-load
-		$this->app['environment'];
+		$this->app['environment']->renderFlag();
 	}
 
 	/**
@@ -44,7 +46,7 @@ class EnvironmentServiceProvider extends ServiceProvider {
 		$this->app['environment'] = $this->app->share(function($app)
 		{
 			// Get the environments in which will be shown the flag
-			$environments = $app['config']['pabloezequiel/environment::environments'];
+			$environments = Config::get('environment::environments');
 
 			$env = new Environment($environments);
 

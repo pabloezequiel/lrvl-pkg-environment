@@ -47,7 +47,7 @@ class Environment {
 								{
 									$content = str_replace(
 										'</body>',
-										"\n".View::make(Config::get('pabloezequiel/environment::template'),
+										"\n".View::make(Config::get('environment::template'),
 										array('environment' => $name))."\n</body>",
 										$content
 									);
