@@ -1,42 +1,41 @@
 <style>
 
 
+	#ZmxhZw.ZmxhZw_box, #ZmxhZw.ZmxhZw_box h2, #ZmxhZw.ZmxhZw_box p, #ZmxhZw.ZmxhZw_box button {
+		color: #ffffff;
+		font-family: Arial, Helvetica, sans-serif;
+		font-weight: normal;
+		text-align: left;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+	}
+
+
 	#ZmxhZw.ZmxhZw_box {
-
 		background-color: #de4343;
-
 		-webkit-background-size: 40px 40px;
 		   -moz-background-size: 40px 40px;
 				background-size: 40px 40px;
-
 		background-image: -webkit-gradient(linear, left top, right bottom, color-stop(.25, rgba(255, 255, 255, .05)), color-stop(.25, transparent), color-stop(.5, transparent), color-stop(.5, rgba(255, 255, 255, .05)), color-stop(.75, rgba(255, 255, 255, .05)), color-stop(.75, transparent), to(transparent));
 		background-image: -webkit-linear-gradient(135deg, rgba(255, 255, 255, .05) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .05) 50%, rgba(255, 255, 255, .05) 75%, transparent 75%, transparent);
 		background-image: -moz-linear-gradient(135deg, rgba(255, 255, 255, .05) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .05) 50%, rgba(255, 255, 255, .05) 75%, transparent 75%, transparent);
 		background-image: -ms-linear-gradient(135deg, rgba(255, 255, 255, .05) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .05) 50%, rgba(255, 255, 255, .05) 75%, transparent 75%, transparent);
 		background-image: -o-linear-gradient(135deg, rgba(255, 255, 255, .05) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .05) 50%, rgba(255, 255, 255, .05) 75%, transparent 75%, transparent);
 		background-image: linear-gradient(135deg, rgba(255, 255, 255, .05) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .05) 50%, rgba(255, 255, 255, .05) 75%, transparent 75%, transparent);
-
 		-webkit-box-shadow: inset 0 -1px 0 rgba(255,255,255,.4);
 		   -moz-box-shadow: inset 0 -1px 0 rgba(255,255,255,.4);
 				box-shadow: inset 0 -1px 0 rgba(255,255,255,.4);
-
 		-webkit-animation: animate-bg 5s linear infinite;
 		-moz-animation: animate-bg 5s linear infinite;
-
 		border: 1px solid rgba(0, 0, 0, 0.5);
-		text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
-
-		color: #ffffff;
-
 		margin: 0;
 		padding: 10px;
-
 		position: absolute;
 		bottom: 10px;
 		right: 10px;
-		width: 270px;
-		font-family: Arial, Helvetica, sans-serif;
-		text-align: left;
+		width: 285px;
 	}
 
 
@@ -59,7 +58,11 @@
 	#ZmxhZw .ZmxhZw_legend h2 {
 		margin: 0;
 		padding: 0;
-		font-weight: normal;
+	}
+
+
+	#ZmxhZw .ZmxhZw_legend p {
+		margin: 5px 0;
 	}
 
 
@@ -73,27 +76,23 @@
 
 
 	#ZmxhZw button.ZmxhZw_close {
-		padding: 0;
 		cursor: pointer;
 		background: transparent;
 		border: 0;
 		opacity: .5;
 		-webkit-appearance: none;
-	}
-
-
-	#ZmxhZw .ZmxhZw_close {
 		float: right;
-		font-size: 21px;
-		font-weight: bold;
 		line-height: 1;
 		text-shadow: 0 1px 0 #fff;
+		margin-top: -3px;
+		padding: 0;
+		font-weight: bold;
+		font-size: 16px;
 	}
 
 
-	#ZmxhZw p {
-		margin: 5px 0;
-		padding: 0;
+	#ZmxhZw .ZmxhZw_clear {
+		clear: both;
 	}
 
 
@@ -128,5 +127,5 @@
 		<h2>{{ ucwords($environment) }}</h2>
 		<p>{{ Lang::get('environment::string.message') }}</p>
 	</div>
-	<div style="clear: both;"></div>
+	<div class="ZmxhZw_clear"></div>
 </div>
