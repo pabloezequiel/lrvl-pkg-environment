@@ -1,6 +1,8 @@
 Laravel 4 Environment Flag
 ==========================
 
+[![Latest Stable Version](https://poser.pugx.org/pabloezequiel/environment/v/stable.svg)](https://packagist.org/packages/pabloezequiel/environment) [![Total Downloads](https://poser.pugx.org/pabloezequiel/environment/downloads.svg)](https://packagist.org/packages/pabloezequiel/environment) [![Latest Unstable Version](https://poser.pugx.org/pabloezequiel/environment/v/unstable.svg)](https://packagist.org/packages/pabloezequiel/environment) [![License](https://poser.pugx.org/pabloezequiel/environment/license.svg)](https://packagist.org/packages/pabloezequiel/environment)
+
 This Laravel 4 package provides a way to flag your environments to avoid unwanted changes.
 
 ## Installation
