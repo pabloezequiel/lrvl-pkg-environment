@@ -5,6 +5,8 @@ Laravel 4 Environment Flag
 
 This Laravel 4 package provides a way to flag your environments to avoid unwanted changes.
 
+![Environment Flag Demo](http://pabloleone.com/resources/environment_flag.png)
+
 ## Installation
 
 Begin by installing this package through Composer. Edit your project's `composer.json` file to require `pabloezequiel/lrvl-pkg-environment`.
