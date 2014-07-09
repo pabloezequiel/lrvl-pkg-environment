@@ -33,7 +33,7 @@ In the config file you can add a group of environments under a single name or mu
  
 See: http://laravel.com/docs/packages#package-configuration
 
-### Template
+## Template
 
 To override the template, publish the package template into your app with this command.
 
