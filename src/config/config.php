@@ -8,7 +8,7 @@ return array(
 	|--------------------------------------------------------------------------
 	|
 	| The package will use the template specified here to show the environment
-	| flag.
+	| flag. Feel free to change the template.
 	|
 	*/
 
@@ -21,8 +21,16 @@ return array(
 	|
 	| Add all evironment where you want to show the flag.
 	| Into the environments key you have to add groups of environments.
-	| The first key into the environments will be the name of the environment.
-	| Values into the second array must match with your environment name.
+	| The first key into the environments array will be the group environment name.
+	| It's values must match with your environment name.
+	|
+	| e.x.: 
+	| 
+	| 'environments' => array(
+	| 
+	| 	'production' => array('production', 'production-2', 'production-n')
+	| 
+	| )
 	|
 	*/
 
