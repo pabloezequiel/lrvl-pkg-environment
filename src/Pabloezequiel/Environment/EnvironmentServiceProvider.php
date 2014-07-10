@@ -48,10 +48,7 @@ class EnvironmentServiceProvider extends ServiceProvider {
 			// Get the environments in which will be shown the flag
 			$environments = Config::get('environment::environments');
 
-			$env = new Environment($environments);
-
-			// Render the flag
-			$env->renderFlag();
+			return new Environment($environments);
 		});
 	}
 
