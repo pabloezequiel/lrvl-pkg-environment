@@ -1,9 +1,9 @@
 {
-    "name": "pabloezequiel/environment",
+    "name": "pabloleone/flag",
     "type": "package",
-    "description": "Add a flag to your Laravel dev environments.",
-    "keywords": ["laravel", "laravel 4", "flag", "environment", "development"],
-    "homepage": "https://github.com/pabloezequiel/lrvl-pkg-environment",
+    "description": "Add a flag to your Laravel flags.",
+    "keywords": ["laravel", "laravel 4", "flag", "flag", "development"],
+    "homepage": "https://github.com/pabloleone/lrvl-pkg-flag",
     "license": "MIT",
     "authors": [
         {
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Pabloezequiel\\Environment\\": "src/"
+            "pabloleone\\Flag\\": "src/"
         }
     },
     "minimum-stability": "stable"

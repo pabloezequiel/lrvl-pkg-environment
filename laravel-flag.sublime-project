@@ -1,0 +1,16 @@
+{
+    "folders":
+    [
+        {
+            "name": "Laravel Flag",
+            "path": "/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment"
+        }
+    ],
+    "settings": {
+
+        "tab_size": 4,
+
+        "translate_tabs_to_spaces": true
+
+    }
+}

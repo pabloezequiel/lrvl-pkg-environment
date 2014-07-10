@@ -1,0 +1,1119 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"Input",
+				"Input-all	Input-all"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"incl",
+				"incl1	include_once …"
+			],
+			[
+				"heade",
+				"headers"
+			],
+			[
+				"update",
+				"updated"
+			],
+			[
+				"DB",
+				"DB-raw	DB-raw"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"filter",
+				"filterd_response"
+			],
+			[
+				"str_re",
+				"str_repeat"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"input",
+				"input	input - submit"
+			],
+			[
+				"Candid",
+				"CandidateResource"
+			],
+			[
+				"que",
+				"query.authtoken"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"rou",
+				"route"
+			],
+			[
+				"Rout",
+				"Routes"
+			],
+			[
+				"au",
+				"auth"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"aut",
+				"auth"
+			],
+			[
+				"auth",
+				"authtoken"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"Respon",
+				"Response-make	Response-make"
+			],
+			[
+				"selec",
+				"selectColumns"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"form",
+				"format"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"di",
+				"die"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"Route",
+				"Route-when	Route-when"
+			],
+			[
+				"Request-is",
+				"Request-isJson	Request-isJson"
+			],
+			[
+				"Reques",
+				"Request-ajax	Request-ajax"
+			],
+			[
+				"list",
+				"headers_list"
+			],
+			[
+				"se",
+				"section	<section>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"php",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"saveas",
+				"Project: Save As"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"syn ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML5"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html ",
+				"Tidy HTML"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: la",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/src/config/config.php",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/src/Pabloezequiel/Flag/Flag.php",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/src/lang/es/string.php",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/src/lang/en/string.php",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/src/views/flag.blade.php",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/src/Pabloezequiel/Flag/FlagServiceProvider.php",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/laravel-flag.sublime-workspace",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/composer.json",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/laravel-flag.sublime-project",
+		"/Users/Pablo/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/README.md",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/src/Pabloezequiel/Environment/EnvironmentServiceProvider.php",
+		"/Volumes/Storage/Projects/gitHub/lrvl-pkg-environment/src/Pabloezequiel/Environment/Environment.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/routes.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/controllers/DashboardController.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/dashboard/survey.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/dashboard/charts.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/_partial/modules/employee_blocking_apps_table.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/_includes/aside/left/module/menu.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/dashboard/dashboard.blade.php",
+		"/Volumes/Storage/Projects/generator.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/_layouts/default.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/_layouts/login.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/config/mail.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/models/OwnerModel.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/survey/delivery-and-satisfaction.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/database/migrations/2014_07_06_104648_add_delivery_and_satisfaction_to_owners_table.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/controllers/SurveyController.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/scheduler/scheduler.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/scheduler/schedulers.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/database/migrations/2014_02_06_162639_add_release_fields_into_owners_table.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/config/app.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/config/home/database.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/config/database.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/config/development/database.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/survey/employee.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/survey/ready_to_migrate.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/_layouts/default.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Eloquent/User.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Sentry.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/_layouts/error.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/views/jarvis/admin/auth/login.blade.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/config/home/app.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/config/home/package.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/config/home/mail.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/app/config/development/mail.php",
+		"/Volumes/Storage/Projects/bitbucket/migration-tool/bootstrap/start.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/views/jarvis/admin/item/item.blade.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/views/jarvis/admin/owner/create.blade.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/views/jarvis/admin/owner/owner.blade.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/views/jarvis/admin/owner/summary.blade.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/views/jarvis/survey/employee.blade.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/views/jarvis/survey/ready_to_migrate.blade.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/commands/InitializeApp.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/config/development/database.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/config/database.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/config/package.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/views/jarvis/admin/_layouts/login.blade.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/views/jarvis/admin/auth/login.blade.php",
+		"/Volumes/Storage/Projects/lrvl_uu/app/config/development/package.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/controllers/admin/ItemController.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/controllers/TriggerController.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/vendor/predis/predis/tests/Predis/Monitor/MonitorContextTest.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/workbench/giggs/emailtry/src/Giggs/Emailtry/Triggers/Eloquent/Trigger.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/status.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/assignment/assignments.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/scheduler/assign.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/status.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/command/index.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/workbench/giggs/emailtry/src/Giggs/Emailtry/EmailtryServiceProvider.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/workbench/giggs/emailtry/vendor/composer/autoload_classmap.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/workbench/giggs/emailtry/src/Giggs/Emailtry/Console/notifications/SendCommand.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/vendor/laravel/framework/src/Illuminate/Foundation/Artisan.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/vendor/laravel/framework/src/Illuminate/Console/Application.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/controllers/CommandController.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/commands/migration-tool/CronCommand.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/storage/logs/log-apache2handler-2014-06-08.txt",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/routes.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/storage/logs/log-apache2handler-2014-05-16.txt",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/controllers/ReportController.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/report/index.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/_includes/aside/left/module/menu.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/controllers/admin/GroupController.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/item/create.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/controllers/ChartController.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/models/UserModel.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/_templates/errors.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/controllers/AjaxController.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/lrvl-MigrationTool.sublime-project",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/composer.lock",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/.gitignore",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/controllers/NotificationController.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/config/package.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/libraries/csvparser.php",
+		"/Users/Pablo/Desktop/Raza sin memoria",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/storage/logs/log-cli-2014-04-23.txt",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/storage/logs/log-apache2handler-2014-03-18.txt",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/commands/migration-tool/MigrationTool.php",
+		"/Users/Pablo/Desktop/query.sql",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/_layouts/login.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/survey/scheduler.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/controllers/SchedulerController.php",
+		"/Users/Pablo/Desktop/¿Sabes donde está la gente importante?",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/scheduler/scheduler.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/scheduler/create.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/database/updates.sql",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/controllers/SurveyController.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/item/add_program_model.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/public/assets/js/main.js",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/survey/ready_to_migrate.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/public/assets/js/config.js",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/_partial/modules/employee_blocking_apps_table.blade.php",
+		"/Users/Pablo/Desktop/Esta frase me mató... \"resembling the current stat",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/program/_partial/create.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/owner/summary.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/storage/logs/log-cli-2014-03-17.txt",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/storage/logs/log-apache2handler-2014-02-28.txt",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/models/SchedulerModel.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/group/group.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/item/item.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/start/global.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/database/migrations/2013_10_30_134943_add_application_number_to_owners_table.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/models/ProgramModel.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/app/views/jarvis/admin/user/assignments.blade.php",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/workbench/giggs/chatry/.gitignore",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/vendor/laravel/framework/.gitignore",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/vendor/cartalyst/sentry/.gitignore",
+		"/Volumes/Storage/Projects/MigrationTool/MigrationTool/vendor/classpreloader/classpreloader/.gitignore"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*",
+			"*.php",
+			"*.js",
+			"*",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*",
+			"*.php",
+			"/Volumes/Storage/Projects/ng_zoho/app/js",
+			"*.js,/Volumes/Storage/Projects/ng_zoho/app/js",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.php",
+			"",
+			"*.php",
+			"*.css",
+			"*-",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flags",
+			"environment",
+			"Environment",
+			"gigg",
+			"pabloe",
+			"pabloezequiel",
+			"@include",
+			"dashboard",
+			"dash",
+			",",
+			"'",
+			"$owner->ds_json_data",
+			"3",
+			"8",
+			"['q",
+			"1",
+			"q1",
+			",",
+			"Input::get(",
+			"ds_rate_",
+			"ds_json_data",
+			"')",
+			"-display-label number\"",
+			"4",
+			"q3",
+			"q6",
+			"employee_id",
+			"q2",
+			"name=\"q2\"",
+			" data-hide=\"q2\"",
+			"<!",
+			"i-display-label number\"",
+			"id=\"amount2\"",
+			"Min : ",
+			"<label class=\"control-label\">With minimum</label>",
+			"id=\"slider-range-min",
+			"slider-range-min",
+			"alue=\"1\"> No",
+			"optionsRadios",
+			"Are you able to access all of your files and folders?",
+			"-",
+			"exampleMulti",
+			"group",
+			"SCC",
+			"forgo",
+			"Repor",
+			"Report",
+			"report",
+			"vodafone",
+			"SCC",
+			"delete",
+			"file",
+			"Giggs\\Emailtry\\Console\\Notifications\\SendCommand",
+			"SendCommand",
+			"registerSender",
+			"updateOwnerStats",
+			"updateOwnerAppNum",
+			"$this->",
+			"case '",
+			"report",
+			"Processes",
+			"Repor",
+			"fil",
+			"filter",
+			"type",
+			"_",
+			"employeesWithOneAssets",
+			"assignApplicationsToOwners",
+			"omitted",
+			",",
+			"ItemProgram",
+			"importApplicationSpiderID",
+			"on_hold_options",
+			"updateOwnerAppNum",
+			"grations'][$timestam",
+			"calendar",
+			"setup_scheduler_calendar",
+			"SEPARATOR",
+			"softwareUpdate",
+			"group_concat",
+			"on_hold_options",
+			"cloneTableRow",
+			"add_program_field",
+			"select-demo-js",
+			".with-search",
+			"addModal",
+			"addMoal",
+			"spid",
+			"importApplicationSpiderID",
+			"1396144800",
+			"Days",
+			"days_accordion",
+			"with-application-search",
+			"application-list",
+			"getApplicationList",
+			"with-search",
+			"with-application-search",
+			"application-list",
+			"getApplicationList",
+			"url",
+			"typ",
+			"eave/LTIB",
+			"page-break	",
+			"on_hold",
+			"on_hol",
+			"app replaced w uk",
+			"updateBlockingApps",
+			"more_options",
+			"uk_release_date",
+			"_getPreparedInput",
+			"on_hold",
+			"on_hol",
+			"Admin Lan",
+			"On Hold Admin Lan",
+			"die",
+			"strings.applications",
+			"ProgramController",
+			"$input['type']",
+			"uk_release_date",
+			"There ",
+			"admin/program/{program}",
+			"Redirect::to",
+			"program.",
+			"software",
+			"program.delete",
+			"program",
+			".confirm",
+			"program.index"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"flag",
+			"Flag",
+			"pabloleone",
+			" ",
+			"'%roger%'",
+			"groupChart",
+			"null"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"chart",
+				"app/views/jarvis/admin/dashboard/charts.blade.php"
+			],
+			[
+				"menu",
+				"app/views/jarvis/admin/_includes/aside/left/module/menu.blade.php"
+			],
+			[
+				"dashbo",
+				"app/controllers/DashboardController.php"
+			],
+			[
+				"dash",
+				"app/views/jarvis/admin/dashboard/dashboard.blade.php"
+			],
+			[
+				"mail",
+				"app/config/mail.php"
+			],
+			[
+				"owner",
+				"app/models/OwnerModel.php"
+			],
+			[
+				"deliv",
+				"app/views/jarvis/survey/delivery-and-satisfaction.blade.php"
+			],
+			[
+				"delive",
+				"app/database/migrations/2014_07_06_104648_add_delivery_and_satisfaction_to_owners_table.php"
+			],
+			[
+				"deliver",
+				"app/views/jarvis/survey/delivery-and-satisfaction.blade.php"
+			],
+			[
+				"surve",
+				"app/controllers/SurveyController.php"
+			],
+			[
+				"deli",
+				"app/views/jarvis/survey/delivery-and-satisfaction.blade.php"
+			],
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"groupcon",
+				"app/controllers/admin/GroupController.php"
+			],
+			[
+				"loginbla",
+				"app/views/jarvis/admin/auth/login.blade.php"
+			],
+			[
+				"initi",
+				"app/commands/InitializeApp.php"
+			],
+			[
+				"itemcontro",
+				"app/controllers/admin/ItemController.php"
+			],
+			[
+				"repor",
+				"app/controllers/ReportController.php"
+			],
+			[
+				"report",
+				"app/controllers/ReportController.php"
+			],
+			[
+				"itemcon",
+				"app/controllers/admin/ItemController.php"
+			],
+			[
+				"itemocon",
+				"vendor/predis/predis/tests/Predis/Monitor/MonitorContextTest.php"
+			],
+			[
+				"trigger",
+				"workbench/giggs/emailtry/src/Giggs/Emailtry/Triggers/Eloquent/Trigger.php"
+			],
+			[
+				"status",
+				"app/status.php"
+			],
+			[
+				"commind",
+				"app/views/jarvis/admin/command/index.blade.php"
+			],
+			[
+				"artisan",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Artisan.php"
+			],
+			[
+				"commandcon",
+				"app/controllers/CommandController.php"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"groupc",
+				"app/controllers/admin/GroupController.php"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"ajax",
+				"app/controllers/AjaxController.php"
+			],
+			[
+				"assignme",
+				"app/views/jarvis/admin/assignment/assignments.blade.php"
+			],
+			[
+				"pack",
+				"app/config/package.php"
+			],
+			[
+				"assignment",
+				"app/views/jarvis/admin/assignment/assignments.blade.php"
+			],
+			[
+				"assign",
+				"app/views/jarvis/admin/scheduler/assign.blade.php"
+			],
+			[
+				"login",
+				"app/views/jarvis/admin/_layouts/login.blade.php"
+			],
+			[
+				"surveycontroller",
+				"app/controllers/SurveyController.php"
+			],
+			[
+				"addprogram",
+				"app/views/jarvis/admin/item/add_program_model.blade.php"
+			],
+			[
+				"modalblad",
+				"app/views/jarvis/admin/_partial/modules/employee_blocking_apps_table.blade.php"
+			],
+			[
+				"summarybla",
+				"app/views/jarvis/admin/owner/summary.blade.php"
+			],
+			[
+				"particreate.blad",
+				"app/views/jarvis/admin/program/_partial/create.blade.php"
+			],
+			[
+				"summar",
+				"app/views/jarvis/admin/owner/summary.blade.php"
+			],
+			[
+				"summry",
+				"app/views/jarvis/admin/owner/summary.blade.php"
+			],
+			[
+				"schedublad",
+				"app/views/jarvis/admin/scheduler/scheduler.blade.php"
+			],
+			[
+				"add_program_model",
+				"app/views/jarvis/admin/item/add_program_model.blade.php"
+			],
+			[
+				"item.bl",
+				"app/views/jarvis/admin/item/item.blade.php"
+			],
+			[
+				"programo",
+				"app/models/ProgramModel.php"
+			],
+			[
+				"progcreate.bl",
+				"app/views/jarvis/admin/program/_partial/create.blade.php"
+			],
+			[
+				"summ",
+				"app/views/jarvis/admin/owner/summary.blade.php"
+			],
+			[
+				"command",
+				"app/commands/migration-tool/CronCommand.php"
+			],
+			[
+				"gitignore",
+				"vendor/doctrine/cache/.gitignore"
+			],
+			[
+				".gitignore",
+				"vendor/classpreloader/classpreloader/.gitignore"
+			],
+			[
+				"fitignore",
+				"vendor/laravel/framework/.gitignore"
+			],
+			[
+				"packa",
+				"app/config/package.php"
+			],
+			[
+				"assign.bla",
+				"app/views/jarvis/admin/scheduler/assign.blade.php"
+			],
+			[
+				"assignm",
+				"app/views/jarvis/admin/assignment/assignments.blade.php"
+			],
+			[
+				"strings",
+				"app/lang/en/strings.php"
+			],
+			[
+				"program",
+				"app/controllers/ProgramController.php"
+			],
+			[
+				"de2fe87f4d6b44a62f0c799729c87f7",
+				"app/storage/views/de2fe87f4d6b44a62f0c799729c87f7c"
+			],
+			[
+				"string",
+				"app/lang/en/strings.php"
+			],
+			[
+				"d56ea93046b8aaed1996ce39c440962d",
+				"app/storage/views/d56ea93046b8aaed1996ce39c440962d"
+			],
+			[
+				"programmo",
+				"app/models/ProgramModel.php"
+			],
+			[
+				"ownemo",
+				"app/models/OwnerModel.php"
+			],
+			[
+				"ownm",
+				"app/models/OwnerModel.php"
+			],
+			[
+				"ownmo",
+				"app/models/OwnerModel.php"
+			],
+			[
+				"aja",
+				"app/controllers/AjaxController.php"
+			],
+			[
+				"charc",
+				"app/controllers/ChartController.php"
+			],
+			[
+				"crocom",
+				"app/commands/migration-tool/CronCommand.php"
+			],
+			[
+				"ajaco",
+				"app/controllers/AjaxController.php"
+			],
+			[
+				"dtboojs",
+				"public/assets/js/include/DT_bootstrap.js"
+			],
+			[
+				"ajac",
+				"app/controllers/AjaxController.php"
+			],
+			[
+				"chartco",
+				"app/controllers/ChartController.php"
+			],
+			[
+				"ownermo",
+				"app/models/OwnerModel.php"
+			],
+			[
+				"dt_bojs",
+				"public/assets/js/include/DT_bootstrap.js"
+			],
+			[
+				"strings.",
+				"app/lang/en/strings.php"
+			],
+			[
+				"assignmenbla",
+				"app/views/jarvis/admin/assignment/assignments.blade.php"
+			],
+			[
+				"authco",
+				"Laravel Zoho/app/controllers/AuthController.php"
+			],
+			[
+				"condi.con",
+				"AngularJS Zoho/app/js/controllers/candidate.controller.js"
+			],
+			[
+				"candidcont",
+				"Laravel Zoho/app/controllers/CandidatesController.php"
+			],
+			[
+				"forgov",
+				"AngularJS Zoho/app/partials/public/forgot.view.html"
+			],
+			[
+				"cand",
+				"AngularJS Zoho/app/js/controllers/candidate.controller.js"
+			],
+			[
+				"can",
+				"AngularJS Zoho/app/js/controllers/candidate.controller.js"
+			],
+			[
+				"app.js",
+				"AngularJS Zoho/app/js/app.js"
+			],
+			[
+				"candidatescontroller",
+				"Laravel Zoho/app/controllers/CandidatesController.php"
+			],
+			[
+				"auth",
+				"AngularJS Zoho/app/js/controllers/auth.controller.js"
+			],
+			[
+				"forgot",
+				"AngularJS Zoho/app/partials/public/forgot.view.html"
+			],
+			[
+				"index",
+				"AngularJS Zoho/app/index.html"
+			],
+			[
+				"abou",
+				"AngularJS Zoho/app/partials/public/about.view.html"
+			],
+			[
+				"about",
+				"AngularJS Zoho/app/partials/public/about.view.html"
+			],
+			[
+				"authcontroller",
+				"Laravel Zoho/app/controllers/AuthController.php"
+			],
+			[
+				"zcandida",
+				"Laravel Zoho/app/models/ZohoCandidate.php"
+			],
+			[
+				"zohoauth",
+				"Laravel Zoho/app/models/ZohoAuth.php"
+			],
+			[
+				"zohoaut",
+				"Laravel Zoho/app/models/ZohoAuth.php"
+			],
+			[
+				"filter",
+				"Laravel Zoho/app/filters.php"
+			],
+			[
+				"candida",
+				"AngularJS Zoho/app/js/controllers/candidate.controller.js"
+			],
+			[
+				"authcon",
+				"Laravel Zoho/app/controllers/AuthController.php"
+			],
+			[
+				"app.p",
+				"Laravel Zoho/app/config/app.php"
+			],
+			[
+				"app.php",
+				"Laravel Zoho/app/config/app.php"
+			],
+			[
+				"zoho",
+				"Laravel Zoho/app/config/local/zoho.php"
+			],
+			[
+				"app",
+				"Laravel Zoho/app/config/app.php"
+			],
+			[
+				"control",
+				"app/js/controllers.js"
+			],
+			[
+				"contro",
+				"app/js/controllers.js"
+			],
+			[
+				"ajaxcon",
+				"app/controllers/AjaxController.php"
+			],
+			[
+				"assignmentsblade",
+				"app/views/jarvis/admin/assignment/assignments.blade.php"
+			],
+			[
+				"functions",
+				"jobroller/functions.php"
+			],
+			[
+				"map",
+				"app/views/jarvis/admin/_partial/modules/maps_chart.blade.php"
+			],
+			[
+				"them",
+				"public/assets/css/theme.css"
+			],
+			[
+				"jquery-jv",
+				"public/assets/js/include/jquery-jvectormap-1.2.2.min.js"
+			],
+			[
+				"map_c",
+				"app/views/jarvis/admin/_partial/modules/maps_chart.blade.php"
+			],
+			[
+				"default.b",
+				"app/views/jarvis/admin/_layouts/default.blade.php"
+			],
+			[
+				"charts",
+				"app/views/jarvis/admin/dashboard/charts.blade.php"
+			],
+			[
+				"widget.",
+				"app/views/jarvis/admin/_partial/widget.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true
+}
