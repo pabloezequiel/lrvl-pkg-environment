@@ -1,4 +1,4 @@
-<?php namespace Pabloezequiel\Flag;
+<?php namespace Pabloleone\Flag;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -20,7 +20,7 @@ class FlagServiceProvider extends ServiceProvider {
      */
     public function boot()
     {
-        $this->package('pabloezequiel/flag');
+        $this->package('pabloleone/flag');
 
         // FlagServiceProvider auto-load
         $this->app['flag']->render();

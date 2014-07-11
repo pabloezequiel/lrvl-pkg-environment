@@ -1,4 +1,4 @@
-<?php namespace Pabloezequiel\Flag;
+<?php namespace Pabloleone\Flag;
 
 use App, View, Config;
 
