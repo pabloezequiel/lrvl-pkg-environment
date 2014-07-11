@@ -1,18 +1,18 @@
-Laravel 4 Flag Flag
-==========================
+Laravel 4 Flag
+==============
 
 [![Latest Stable Version](https://poser.pugx.org/pabloezequiel/environment/v/stable.svg)](https://packagist.org/packages/pabloezequiel/environment) [![Total Downloads](https://poser.pugx.org/pabloezequiel/environment/downloads.svg)](https://packagist.org/packages/pabloezequiel/environment) [![Latest Unstable Version](https://poser.pugx.org/pabloezequiel/environment/v/unstable.svg)](https://packagist.org/packages/pabloezequiel/environment) [![License](https://poser.pugx.org/pabloezequiel/environment/license.svg)](https://packagist.org/packages/pabloezequiel/environment)
 
 This Laravel 4 package provides a way to flag your flags to avoid unwanted changes.
 
-![Flag Environment Demo](http://pabloleone.com/resources/environment_flag.png)
+![Flag Demo](http://pabloleone.com/resources/environment_flag.png)
 
 ## Installation
 
 Begin by installing this package through Composer. Edit your project's `composer.json` file to require `pabloezequiel/flag`.
 
     "require": {
-        "pabloezequiel/flag": "1.0.3"
+        "pabloezequiel/flag": "1.0.5"
     }
 
 Next, update Composer from the Terminal:
