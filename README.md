@@ -12,7 +12,7 @@ This Laravel 4 package provides a way to flag your flags to avoid unwanted chang
 Begin by installing this package through Composer. Edit your project's `composer.json` file to require `pabloezequiel/flag`.
 
     "require": {
-        "pabloezequiel/flag": "1.0.5"
+        "pabloezequiel/flag": "1.0.6"
     }
 
 Next, update Composer from the Terminal:
