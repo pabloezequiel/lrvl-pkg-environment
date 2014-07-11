@@ -1,7 +1,7 @@
 Laravel 4 Flag Flag
 ==========================
 
-[![Latest Stable Version](https://poser.pugx.org/pabloezequiel/flag/v/stable.svg)](https://packagist.org/packages/pabloezequiel/flag) [![Total Downloads](https://poser.pugx.org/pabloezequiel/flag/downloads.svg)](https://packagist.org/packages/pabloezequiel/flag) [![Latest Unstable Version](https://poser.pugx.org/pabloezequiel/flag/v/unstable.svg)](https://packagist.org/packages/pabloezequiel/flag) [![License](https://poser.pugx.org/pabloezequiel/flag/license.svg)](https://packagist.org/packages/pabloezequiel/flag)
+[![Latest Stable Version](https://poser.pugx.org/pabloezequiel/environment/v/stable.svg)](https://packagist.org/packages/pabloezequiel/environment) [![Total Downloads](https://poser.pugx.org/pabloezequiel/environment/downloads.svg)](https://packagist.org/packages/pabloezequiel/environment) [![Latest Unstable Version](https://poser.pugx.org/pabloezequiel/environment/v/unstable.svg)](https://packagist.org/packages/pabloezequiel/environment) [![License](https://poser.pugx.org/pabloezequiel/environment/license.svg)](https://packagist.org/packages/pabloezequiel/environment)
 
 This Laravel 4 package provides a way to flag your flags to avoid unwanted changes.
 
