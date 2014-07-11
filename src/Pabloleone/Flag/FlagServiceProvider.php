@@ -1,4 +1,4 @@
-<?php namespace Pabloleone\Flag;
+<?php namespace Pabloezequiel\Flag;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -20,7 +20,7 @@ class FlagServiceProvider extends ServiceProvider {
      */
     public function boot()
     {
-        $this->package('pabloleone/flag');
+        $this->package('pabloezequiel/flag');
 
         // FlagServiceProvider auto-load
         $this->app['flag']->render();
@@ -45,10 +45,10 @@ class FlagServiceProvider extends ServiceProvider {
     {
         $this->app['flag'] = $this->app->share(function($app)
         {
-            // Get the flags in which will be shown the flag
-            $flags = Config::get('flag::environments');
+            // Get the environments in which will be shown the flag
+            $environments = Config::get('flag::environments');
 
-            return new Flag($flags);
+            return new Flag($environments);
         });
     }
 
