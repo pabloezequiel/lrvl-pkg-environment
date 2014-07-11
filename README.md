@@ -25,7 +25,7 @@ Once this operation completes, the final step is to add the service provider. Op
 
 That's it! You're all set to go.
 
-## Configuration
+## Configuration 
 
 You have to add a list of flags you want to see the flag. To do it you have to publish the config file with this command.
 
