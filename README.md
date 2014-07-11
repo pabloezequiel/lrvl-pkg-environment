@@ -5,7 +5,7 @@ Laravel 4 Flag Flag
 
 This Laravel 4 package provides a way to flag your flags to avoid unwanted changes.
 
-![Flag Environment Demo](http://pabloleone.com/resources/flag_flag.png)
+![Flag Environment Demo](http://pabloleone.com/resources/environment_flag.png)
 
 ## Installation
 
